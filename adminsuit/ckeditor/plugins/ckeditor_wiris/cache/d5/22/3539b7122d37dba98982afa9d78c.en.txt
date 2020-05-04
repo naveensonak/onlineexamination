@@ -1,0 +1,1 @@
+{"result":{"text":"L e s s space t h a n space 50 to the power of 0 c space b u t space g r e a t e r space t h a n space 0 to the power of 0 c"},"status":"ok"}

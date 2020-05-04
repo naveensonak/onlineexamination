@@ -1,0 +1,1 @@
+{"result":{"text":"10 cross times 10 to the power of negative 4 end exponent M space N a subscript 2 C O subscript 3"},"status":"ok"}

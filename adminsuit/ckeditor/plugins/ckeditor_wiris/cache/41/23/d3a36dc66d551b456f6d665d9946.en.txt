@@ -1,0 +1,1 @@
+{"result":{"text":"g H equals left parenthesis n minus 2 right parenthesis u squared"},"status":"ok"}

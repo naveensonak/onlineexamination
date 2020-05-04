@@ -1,0 +1,1 @@
+{"result":{"text":"bevelled fraction numerator P over denominator left parenthesis k T V right parenthesis end fraction"},"status":"ok"}

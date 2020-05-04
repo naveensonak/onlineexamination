@@ -1,0 +1,1 @@
+{"result":{"text":"6 x equals 4 y equals 3 z"},"status":"ok"}

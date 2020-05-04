@@ -1,0 +1,1 @@
+{"result":{"text":"3 C subscript 1 plus 5 C subscript 2 equals 0"},"status":"ok"}

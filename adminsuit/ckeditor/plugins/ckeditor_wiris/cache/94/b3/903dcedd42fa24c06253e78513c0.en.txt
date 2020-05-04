@@ -1,0 +1,1 @@
+{"result":{"text":"k space equals space k subscript 1 plus k subscript 2 plus k subscript 3 plus 3 k subscript 4"},"status":"ok"}

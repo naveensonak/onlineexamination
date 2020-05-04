@@ -1,0 +1,1 @@
+{"result":{"text":"DNA space rightwards arrow RNA space rightwards arrow Proteins"},"status":"ok"}

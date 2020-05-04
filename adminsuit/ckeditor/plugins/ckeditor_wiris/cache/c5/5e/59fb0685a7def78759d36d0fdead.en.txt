@@ -1,0 +1,1 @@
+{"result":{"text":"1.76 cross times 11 to the power of 11 C divided by k g"},"status":"ok"}

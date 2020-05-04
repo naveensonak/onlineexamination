@@ -1,0 +1,1 @@
+{"result":{"text":"f equals open parentheses fraction numerator m over denominator M plus m end fraction close parentheses"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator square root of G c end root over denominator h to the power of begin display style bevelled 3 over 2 end style end exponent end fraction"},"status":"ok"}

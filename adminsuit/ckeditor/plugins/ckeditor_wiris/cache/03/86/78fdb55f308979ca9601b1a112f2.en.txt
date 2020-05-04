@@ -1,0 +1,1 @@
+{"result":{"text":"H subscript 2 O subscript 2 minus 2 e to the power of minus rightwards arrow for space of O subscript 2 plus 2 H to the power of plus"},"status":"ok"}

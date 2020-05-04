@@ -1,0 +1,1 @@
+{"result":{"text":"Q equals fraction numerator open square brackets N H subscript 3 close square brackets squared over denominator open square brackets N subscript 2 close square brackets open square brackets H subscript 2 close square brackets cubed end fraction"},"status":"ok"}

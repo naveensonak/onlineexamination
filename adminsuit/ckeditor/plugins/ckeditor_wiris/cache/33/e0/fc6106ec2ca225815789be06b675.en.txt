@@ -1,0 +1,1 @@
+{"result":{"text":"left parenthesis 4 j with hat on top space plus 3 k with hat on top right parenthesis"},"status":"ok"}

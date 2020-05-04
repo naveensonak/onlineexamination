@@ -1,0 +1,1 @@
+{"result":{"text":"left parenthesis straight C subscript 5 straight H subscript 5 straight N to the power of plus straight H right parenthesis"},"status":"ok"}

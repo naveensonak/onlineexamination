@@ -1,0 +1,1 @@
+{"result":{"text":"R equals 2.5 m"},"status":"ok"}

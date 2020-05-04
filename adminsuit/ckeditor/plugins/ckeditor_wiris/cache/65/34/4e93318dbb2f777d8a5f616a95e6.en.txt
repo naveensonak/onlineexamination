@@ -1,0 +1,1 @@
+{"result":{"text":"left parenthesis straight F to the power of minus right parenthesis"},"status":"ok"}

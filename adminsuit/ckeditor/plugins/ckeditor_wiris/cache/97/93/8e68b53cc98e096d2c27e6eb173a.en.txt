@@ -1,0 +1,1 @@
+{"result":{"text":"straight d subscript straight z squared end subscript comma straight d subscript straight x squared minus straight y squared end subscript"},"status":"ok"}

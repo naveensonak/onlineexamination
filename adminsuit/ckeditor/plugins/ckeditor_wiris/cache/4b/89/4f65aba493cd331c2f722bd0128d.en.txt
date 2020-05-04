@@ -1,0 +1,1 @@
+{"result":{"text":"left square bracket straight C subscript 0 straight F subscript 6 right square bracket to the power of 3 minus end exponent"},"status":"ok"}

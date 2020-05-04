@@ -1,0 +1,1 @@
+{"result":{"text":"A I subscript 2 o subscript 3 space end subscript i s space left parenthesis F equals 96500 C space m o l to the power of negative 1 end exponent right parenthesis"},"status":"ok"}

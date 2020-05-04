@@ -1,0 +1,1 @@
+{"result":{"text":"N subscript 2 left parenthesis g right parenthesis plus 3 H subscript 2 left parenthesis g right parenthesis space space 2 N H subscript 3 left parenthesis g right parenthesis"},"status":"ok"}

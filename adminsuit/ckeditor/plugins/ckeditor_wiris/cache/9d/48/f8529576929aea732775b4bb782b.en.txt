@@ -1,0 +1,1 @@
+{"result":{"text":"negative fraction numerator j over denominator d t end fraction straight pi R squared i n l o o p 1 a n d z e r o i n l o o p 2\nx colon"},"status":"ok"}

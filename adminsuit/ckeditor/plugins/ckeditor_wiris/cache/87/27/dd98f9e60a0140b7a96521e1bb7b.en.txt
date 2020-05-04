@@ -1,0 +1,1 @@
+{"result":{"text":"left parenthesis negative 2 i with hat on top plus 5 j with hat on top right parenthesis"},"status":"ok"}

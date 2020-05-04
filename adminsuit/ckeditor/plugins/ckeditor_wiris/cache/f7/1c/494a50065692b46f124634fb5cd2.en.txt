@@ -1,0 +1,1 @@
+{"result":{"text":"2.178 x 10 cubed k g space m to the power of negative 3 end exponent"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"C r O subscript 3"},"status":"ok"}

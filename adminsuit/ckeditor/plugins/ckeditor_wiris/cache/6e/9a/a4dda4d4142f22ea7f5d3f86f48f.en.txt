@@ -1,0 +1,1 @@
+{"result":{"text":"left parenthesis increment G to the power of ring operator right parenthesis"},"status":"ok"}

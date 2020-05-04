@@ -1,0 +1,1 @@
+{"result":{"text":"6 left parenthesis 1 minus e to the power of negative t divided by 0.2 end exponent right parenthesis space V"},"status":"ok"}

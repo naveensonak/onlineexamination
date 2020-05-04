@@ -1,0 +1,1 @@
+{"result":{"text":"open vertical bar alpha minus beta close vertical bar"},"status":"ok"}

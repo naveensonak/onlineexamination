@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator mu subscript 0 l left parenthesis b minus a right parenthesis over denominator 24 a b end fraction"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"g subscript 0"},"status":"ok"}

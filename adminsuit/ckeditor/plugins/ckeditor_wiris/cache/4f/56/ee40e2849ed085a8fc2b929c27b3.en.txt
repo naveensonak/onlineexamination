@@ -1,0 +1,1 @@
+{"result":{"text":"300 minus 200 e to the power of negative t divided by 2 end exponent"},"status":"ok"}

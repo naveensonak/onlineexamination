@@ -1,0 +1,1 @@
+{"result":{"text":"a L squared plus b L cubed"},"status":"ok"}

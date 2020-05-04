@@ -1,0 +1,1 @@
+{"result":{"text":"left parenthesis mu subscript g equals end subscript 3 divided by 2 right parenthesis"},"status":"ok"}

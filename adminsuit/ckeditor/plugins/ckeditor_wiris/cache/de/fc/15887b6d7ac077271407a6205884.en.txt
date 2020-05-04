@@ -1,0 +1,1 @@
+{"result":{"text":"mu subscript w equals end subscript 4 divided by 3"},"status":"ok"}

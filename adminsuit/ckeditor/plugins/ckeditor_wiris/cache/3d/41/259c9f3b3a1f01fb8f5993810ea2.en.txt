@@ -1,0 +1,1 @@
+{"result":{"text":"open parentheses lambda subscript 0 close parentheses"},"status":"ok"}

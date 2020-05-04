@@ -1,0 +1,1 @@
+{"result":{"text":"L i subscript 2 less than L i subscript 2 superscript plus less than L i subscript 2 superscript minus"},"status":"ok"}

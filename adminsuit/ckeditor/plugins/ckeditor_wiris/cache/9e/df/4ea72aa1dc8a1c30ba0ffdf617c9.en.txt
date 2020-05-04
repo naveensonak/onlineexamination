@@ -1,0 +1,1 @@
+{"result":{"text":"I equals left parenthesis e to the power of 1000 V divided by T end exponent minus 1 right parenthesis space m A comma"},"status":"ok"}

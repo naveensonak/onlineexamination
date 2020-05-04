@@ -1,0 +1,1 @@
+{"result":{"text":"straight pi over 2 minus 2 over 3"},"status":"ok"}

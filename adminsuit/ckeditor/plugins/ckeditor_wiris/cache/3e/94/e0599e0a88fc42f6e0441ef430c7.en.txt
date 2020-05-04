@@ -1,0 +1,1 @@
+{"result":{"text":"open parentheses w i t h space p subscript 1 greater than p subscript 2 greater than p subscript 3 close parentheses comma"},"status":"ok"}

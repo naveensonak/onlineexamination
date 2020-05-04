@@ -1,0 +1,1 @@
+{"result":{"text":"u t minus 1 half g t squared"},"status":"ok"}

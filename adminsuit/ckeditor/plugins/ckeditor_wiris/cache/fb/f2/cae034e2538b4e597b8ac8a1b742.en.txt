@@ -1,0 +1,1 @@
+{"result":{"text":"L subscript A equals L subscript B over 2"},"status":"ok"}

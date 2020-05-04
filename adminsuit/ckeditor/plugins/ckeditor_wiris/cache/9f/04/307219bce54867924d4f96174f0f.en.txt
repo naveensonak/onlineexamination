@@ -1,0 +1,1 @@
+{"result":{"text":"6 cross times 10 to the power of negative 7 end exponent space C divided by m squared"},"status":"ok"}

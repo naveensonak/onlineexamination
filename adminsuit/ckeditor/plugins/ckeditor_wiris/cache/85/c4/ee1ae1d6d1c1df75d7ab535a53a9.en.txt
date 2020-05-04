@@ -1,0 +1,1 @@
+{"result":{"text":"open parentheses straight a plus straight b close parentheses"},"status":"ok"}

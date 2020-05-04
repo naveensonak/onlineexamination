@@ -1,0 +1,1 @@
+{"result":{"text":"left parenthesis E to the power of asterisk times right parenthesis"},"status":"ok"}

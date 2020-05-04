@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator square root of G c end root over denominator h to the power of 3 divided by 2 end exponent end fraction"},"status":"ok"}

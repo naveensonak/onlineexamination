@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator m subscript 1 space m subscript 2 over denominator m subscript 1 plus m subscript 2 end fraction l squared"},"status":"ok"}

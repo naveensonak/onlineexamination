@@ -1,0 +1,1 @@
+{"result":{"text":"increment straight H subscript soln equals increment straight H subscript 1 plus increment straight H subscript 2 minus increment straight H subscript 3"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"a space colon space b space colon space c"},"status":"ok"}

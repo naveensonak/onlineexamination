@@ -1,0 +1,1 @@
+{"result":{"text":"a equals 15 m divided by s squared"},"status":"ok"}

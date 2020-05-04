@@ -1,0 +1,1 @@
+{"result":{"text":"F e space rightwards arrow with O subscript 2 comma space h e a t on top space F e subscript 3 O subscript 4 space rightwards arrow with C O comma space 600 degree C on top space F e O space rightwards arrow with space space space C O comma space 700 degree C space space space on top space F e"},"status":"ok"}

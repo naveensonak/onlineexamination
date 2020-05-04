@@ -1,0 +1,1 @@
+{"result":{"text":"integral subscript straight pi divided by 6 end subscript superscript straight pi divided by 3 end superscript fraction numerator d x over denominator 1 plus square root of square root of tan space x end root end root end fraction"},"status":"ok"}

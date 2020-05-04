@@ -1,0 +1,1 @@
+{"result":{"text":"capital delta P equals P subscript o b s end subscript minus P subscript c a l c u l a t e d space b y space R a o u l t apostrophe s space l o w end subscript equals 0"},"status":"ok"}

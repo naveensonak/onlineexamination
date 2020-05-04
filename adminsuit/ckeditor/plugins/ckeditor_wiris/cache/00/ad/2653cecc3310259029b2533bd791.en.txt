@@ -1,0 +1,1 @@
+{"result":{"text":"F e to the power of 3 plus space end exponent left parenthesis a q right parenthesis plus e to the power of minus rightwards arrow with space space space space space space space space space on top F e to the power of 2 plus end exponent space left parenthesis a q right parenthesis"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"R equals 20 capital omega comma space L equals 1.5 space H comma space C equals 35 mu F"},"status":"ok"}

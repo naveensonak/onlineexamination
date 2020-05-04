@@ -1,0 +1,1 @@
+{"result":{"text":"stack space B space with rightwards arrow on top equals 3.0 cross times 10 to the power of negative 4 end exponent e to the power of negative 0.2 x end exponent a with hat on top subscript y"},"status":"ok"}

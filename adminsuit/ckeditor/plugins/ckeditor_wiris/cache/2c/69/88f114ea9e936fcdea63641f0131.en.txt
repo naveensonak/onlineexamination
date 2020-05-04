@@ -1,0 +1,1 @@
+{"result":{"text":"3 M n to the power of 2 plus end exponent rightwards arrow with space space space space space space space space space space space space on top space M n plus 2 M n to the power of 3 plus end exponent"},"status":"ok"}

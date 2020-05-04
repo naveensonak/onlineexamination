@@ -1,0 +1,1 @@
+{"result":{"text":"log space k space v s 1 over T"},"status":"ok"}

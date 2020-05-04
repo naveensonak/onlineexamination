@@ -1,0 +1,1 @@
+{"result":{"text":"y equals x minus 5 x squared"},"status":"ok"}

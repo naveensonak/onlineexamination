@@ -1,0 +1,1 @@
+{"result":{"text":"C u S O subscript 4 plus 4 K C N space rightwards arrow with space space space space space space space space space space space on top space K subscript 2 left square bracket C u left parenthesis C N right parenthesis subscript 4 right square bracket plus K subscript 2 S O subscript 4"},"status":"ok"}

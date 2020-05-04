@@ -1,0 +1,1 @@
+{"result":{"text":"A B equals 3 i with hat on top plus 4 k"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"c element of right square bracket 0 comma space 1 left square bracket"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"Amino space Acids space rightwards arrow Proteins rightwards arrow DNA space space"},"status":"ok"}

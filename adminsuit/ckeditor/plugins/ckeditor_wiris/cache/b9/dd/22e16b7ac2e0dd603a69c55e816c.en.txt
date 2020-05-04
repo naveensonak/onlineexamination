@@ -1,0 +1,1 @@
+{"result":{"text":"increment straight G subscript mix equals 0"},"status":"ok"}

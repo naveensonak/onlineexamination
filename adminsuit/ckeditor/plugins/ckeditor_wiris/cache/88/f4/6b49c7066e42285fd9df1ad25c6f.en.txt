@@ -1,0 +1,1 @@
+{"result":{"text":"negative fraction numerator d B over denominator d t end fraction πR squared space in space loop space 1 space and space minus fraction numerator d B over denominator d t end fraction πR squared space in space loop space 2"},"status":"ok"}

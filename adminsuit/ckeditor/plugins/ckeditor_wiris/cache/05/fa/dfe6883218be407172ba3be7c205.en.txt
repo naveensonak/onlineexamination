@@ -1,0 +1,1 @@
+{"result":{"text":"DNA rightwards arrow Carbohydrates rightwards arrow Proteins"},"status":"ok"}

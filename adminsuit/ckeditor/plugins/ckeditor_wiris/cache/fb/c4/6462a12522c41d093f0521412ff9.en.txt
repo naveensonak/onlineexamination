@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator 1 over denominator 2 straight pi end fraction fraction numerator A subscript gamma p subscript 0 over denominator V subscript 0 M end fraction"},"status":"ok"}

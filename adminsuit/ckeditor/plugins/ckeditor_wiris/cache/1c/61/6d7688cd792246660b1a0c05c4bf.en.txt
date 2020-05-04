@@ -1,0 +1,1 @@
+{"result":{"text":"a squared T squared plus 4 straight pi squared straight v squared"},"status":"ok"}

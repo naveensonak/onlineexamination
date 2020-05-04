@@ -1,0 +1,1 @@
+{"result":{"text":"2 x cubed plus 3 x plus k equals 0"},"status":"ok"}

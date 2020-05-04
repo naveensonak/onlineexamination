@@ -1,0 +1,1 @@
+{"result":{"text":"t r i g o n a l space b i p y r a m i d a l comma s p cubed d"},"status":"ok"}

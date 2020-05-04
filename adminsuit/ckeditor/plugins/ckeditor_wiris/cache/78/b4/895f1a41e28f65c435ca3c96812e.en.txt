@@ -1,0 +1,1 @@
+{"result":{"text":"left parenthesis e subscript m equals 9.1 cross times 10 to the power of blank to the power of negative 31 end exponent end exponent space k g right parenthesis"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"open parentheses c close parentheses"},"status":"ok"}

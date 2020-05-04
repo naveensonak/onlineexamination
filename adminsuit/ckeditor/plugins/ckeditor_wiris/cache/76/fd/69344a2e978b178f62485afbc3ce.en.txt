@@ -1,0 +1,1 @@
+{"result":{"text":"t r a n s minus e f f e c t"},"status":"ok"}

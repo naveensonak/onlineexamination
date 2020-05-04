@@ -1,0 +1,1 @@
+{"result":{"text":"E equals negative 2.178 cross times 10 to the power of negative 18 end exponent J open parentheses Z squared over n squared close parentheses"},"status":"ok"}

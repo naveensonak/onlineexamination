@@ -1,0 +1,1 @@
+{"result":{"text":"E to the power of O subscript M n subscript 4 with bar on top end subscript divided by M n to the power of 2 plus end exponent end subscript equals 1.51 space V"},"status":"ok"}

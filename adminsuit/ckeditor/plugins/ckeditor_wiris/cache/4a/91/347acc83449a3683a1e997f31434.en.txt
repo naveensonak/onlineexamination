@@ -1,0 +1,1 @@
+{"result":{"text":"C H subscript 3 C l comma space C H subscript 3 C H subscript 2 C l comma space left parenthesis C H subscript 3 right parenthesis subscript 2 C H C l space a n d space left parenthesis C H subscript 3 right parenthesis subscript 3 C C l"},"status":"ok"}

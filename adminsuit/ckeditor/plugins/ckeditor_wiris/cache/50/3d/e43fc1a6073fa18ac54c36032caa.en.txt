@@ -1,0 +1,1 @@
+{"result":{"text":"epsilon subscript 0 equals open square brackets M to the power of negative 1 end exponent L to the power of negative 3 end exponent T squared space A close square brackets"},"status":"ok"}

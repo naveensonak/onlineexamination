@@ -1,0 +1,1 @@
+{"result":{"text":"left parenthesis C subscript 5 H subscript 5 N to the power of plus H right parenthesis"},"status":"ok"}

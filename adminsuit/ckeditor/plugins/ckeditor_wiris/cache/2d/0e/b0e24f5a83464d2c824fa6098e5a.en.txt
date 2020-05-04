@@ -1,0 +1,1 @@
+{"result":{"text":"Q less than K subscript c"},"status":"ok"}

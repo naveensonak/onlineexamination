@@ -1,0 +1,1 @@
+{"result":{"text":"x squared equals 32 y"},"status":"ok"}

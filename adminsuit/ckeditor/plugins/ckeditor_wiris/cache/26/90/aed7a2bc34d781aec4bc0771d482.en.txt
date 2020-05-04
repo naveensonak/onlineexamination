@@ -1,0 +1,1 @@
+{"result":{"text":"S n divided by H C L"},"status":"ok"}

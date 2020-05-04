@@ -1,0 +1,1 @@
+{"result":{"text":"open parentheses 4 i with hat on top plus 3 j with hat on top space close parentheses"},"status":"ok"}

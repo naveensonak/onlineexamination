@@ -1,0 +1,1 @@
+{"result":{"text":"pi greater than theta subscript 1 greater than theta subscript 2 greater than theta subscript 3 greater than pi over 2"},"status":"ok"}

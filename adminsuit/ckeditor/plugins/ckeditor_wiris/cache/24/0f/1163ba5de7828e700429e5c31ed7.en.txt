@@ -1,0 +1,1 @@
+{"result":{"text":"l squared equals m squared plus n squared"},"status":"ok"}

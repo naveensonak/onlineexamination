@@ -1,0 +1,1 @@
+{"result":{"text":"negative space 166.2 comma space minus 237.2 space a n d space 394.4 space k J space m o l to the power of negative 1 end exponent"},"status":"ok"}

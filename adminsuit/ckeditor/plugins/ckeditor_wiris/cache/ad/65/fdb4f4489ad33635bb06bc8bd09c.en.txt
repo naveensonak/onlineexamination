@@ -1,0 +1,1 @@
+{"result":{"text":"E to the power of 0 subscript c e l l end subscript space"},"status":"ok"}

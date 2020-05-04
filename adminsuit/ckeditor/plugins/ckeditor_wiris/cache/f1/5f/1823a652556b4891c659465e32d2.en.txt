@@ -1,0 +1,1 @@
+{"result":{"text":"left parenthesis increment H subscript a b s o r p t i o n end subscript right parenthesis"},"status":"ok"}

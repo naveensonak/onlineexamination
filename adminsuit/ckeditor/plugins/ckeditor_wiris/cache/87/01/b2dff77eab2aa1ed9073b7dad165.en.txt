@@ -1,0 +1,1 @@
+{"result":{"text":"open square brackets s open curly brackets s empty set d d with rightwards harpoon with barb upwards on top close curly brackets close square brackets"},"status":"ok"}

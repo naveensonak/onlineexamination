@@ -1,0 +1,1 @@
+{"result":{"text":"P left parenthesis stack A union B with bar on top right parenthesis equals 1 over 6"},"status":"ok"}

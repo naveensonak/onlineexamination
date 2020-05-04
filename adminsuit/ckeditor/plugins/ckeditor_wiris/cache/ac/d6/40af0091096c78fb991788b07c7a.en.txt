@@ -1,0 +1,1 @@
+{"result":{"text":"4 y equals 2 x minus 25 x squared"},"status":"ok"}

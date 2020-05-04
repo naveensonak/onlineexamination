@@ -1,0 +1,1 @@
+{"result":{"text":"integral f left parenthesis x right parenthesis d x equals psi left parenthesis x right parenthesis comma"},"status":"ok"}

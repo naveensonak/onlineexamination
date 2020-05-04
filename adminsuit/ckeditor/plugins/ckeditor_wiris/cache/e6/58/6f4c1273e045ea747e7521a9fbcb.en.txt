@@ -1,0 +1,1 @@
+{"result":{"text":"straight pi over 2 less than circled dash subscript 1 less than circled dash subscript 2 less than circled dash subscript 3 less than straight pi"},"status":"ok"}

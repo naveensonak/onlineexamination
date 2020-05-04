@@ -1,0 +1,1 @@
+{"result":{"text":"M o r e space t h a n space 50 to the power of 0 C"},"status":"ok"}

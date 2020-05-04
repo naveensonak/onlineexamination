@@ -1,0 +1,1 @@
+{"result":{"text":"negative k e squared over r cubed r with rightwards harpoon with barb upwards on top"},"status":"ok"}

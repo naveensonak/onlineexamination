@@ -1,0 +1,1 @@
+{"result":{"text":"11.52 space S space c m squared divided by m o l"},"status":"ok"}

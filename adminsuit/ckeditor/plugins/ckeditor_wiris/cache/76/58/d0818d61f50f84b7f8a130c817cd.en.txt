@@ -1,0 +1,1 @@
+{"result":{"text":"integral subscript 0 superscript straight pi square root of 1 plus 4 space sin squared x over 2 minus 4 space sin space x over 2 d x end root"},"status":"ok"}

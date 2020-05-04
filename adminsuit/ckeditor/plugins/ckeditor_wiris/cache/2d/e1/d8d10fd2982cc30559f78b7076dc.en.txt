@@ -1,0 +1,1 @@
+{"result":{"text":"E to the power of O subscript M to the power of 3 plus end exponent divided by M to the power of 2 plus end exponent end subscript"},"status":"ok"}

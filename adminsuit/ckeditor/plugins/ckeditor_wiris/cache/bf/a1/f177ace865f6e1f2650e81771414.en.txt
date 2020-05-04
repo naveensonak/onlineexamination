@@ -1,0 +1,1 @@
+{"result":{"text":"I subscript B open parentheses I subscript B greater than I subscript A close parentheses"},"status":"ok"}

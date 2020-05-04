@@ -1,0 +1,1 @@
+{"result":{"text":"D N A space rightwards arrow R N A rightwards arrow P r o t e i n s"},"status":"ok"}

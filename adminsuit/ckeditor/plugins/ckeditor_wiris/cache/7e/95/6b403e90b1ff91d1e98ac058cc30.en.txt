@@ -1,0 +1,1 @@
+{"result":{"text":"d subscript z to the power of 2 space comma space end exponent end subscript d subscript x squared minus y squared end subscript"},"status":"ok"}

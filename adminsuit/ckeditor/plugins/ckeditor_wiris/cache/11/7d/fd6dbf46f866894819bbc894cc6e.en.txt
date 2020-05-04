@@ -1,0 +1,1 @@
+{"result":{"text":"AgCI left parenthesis straight s right parenthesis"},"status":"ok"}

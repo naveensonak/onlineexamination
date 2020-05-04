@@ -1,0 +1,1 @@
+{"result":{"text":"9.60 cross times 10 to the power of negative 17 end exponent space J"},"status":"ok"}

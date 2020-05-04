@@ -1,0 +1,1 @@
+{"result":{"text":"left parenthesis straight K subscript straight b space for space straight C subscript 5 straight H subscript 5 straight N equals 1.7 space straight X space 10 to the power of negative 9 end exponent right parenthesis"},"status":"ok"}

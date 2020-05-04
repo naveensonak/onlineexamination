@@ -1,0 +1,1 @@
+{"result":{"text":"Z equals 1 minus fraction numerator R T over denominator P b end fraction"},"status":"ok"}

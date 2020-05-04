@@ -1,0 +1,1 @@
+{"result":{"text":"x subscript q left parenthesis t right parenthesis equals f t minus t squared"},"status":"ok"}

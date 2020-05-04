@@ -1,0 +1,1 @@
+{"result":{"text":"left parenthesis B a C I subscript 2 right parenthesis equals 0.69"},"status":"ok"}

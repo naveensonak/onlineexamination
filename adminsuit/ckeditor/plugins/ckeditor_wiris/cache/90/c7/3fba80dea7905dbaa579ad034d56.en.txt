@@ -1,0 +1,1 @@
+{"result":{"text":"La to the power of 3 plus end exponent less than Eu to the power of 3 plus space end exponent less than Lu to the power of 3 plus end exponent comma straight Y to the power of 3 plus end exponent"},"status":"ok"}

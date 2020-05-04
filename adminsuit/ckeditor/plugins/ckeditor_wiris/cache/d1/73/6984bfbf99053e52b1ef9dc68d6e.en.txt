@@ -1,0 +1,1 @@
+{"result":{"text":"f subscript K left parenthesis x right parenthesis equals 1 over K left parenthesis sin to the power of k space x plus cos to the power of k space x right parenthesis"},"status":"ok"}

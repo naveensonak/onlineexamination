@@ -1,0 +1,1 @@
+{"result":{"text":"Cu plus 2 straight H subscript 2 SO subscript 4 space rightwards arrow C u SO subscript 4 space plus thin space S O subscript 2 space plus 2 straight H subscript 2 straight O"},"status":"ok"}

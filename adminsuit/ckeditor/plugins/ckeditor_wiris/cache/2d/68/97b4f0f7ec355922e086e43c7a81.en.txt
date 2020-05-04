@@ -1,0 +1,1 @@
+{"result":{"text":"left parenthesis E subscript s p h e r e end subscript divided by E subscript c y l i n d e r end subscript right parenthesis"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator M g over denominator k end fraction open parentheses 1 minus fraction numerator L A sigma over denominator 2 M end fraction close parentheses"},"status":"ok"}

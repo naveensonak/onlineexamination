@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator square root of h c end root over denominator G end fraction"},"status":"ok"}

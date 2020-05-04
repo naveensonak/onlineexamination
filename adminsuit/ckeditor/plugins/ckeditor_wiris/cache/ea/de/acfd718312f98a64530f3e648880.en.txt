@@ -1,0 +1,1 @@
+{"result":{"text":"M n space left parenthesis Z equals 25 right parenthesis"},"status":"ok"}

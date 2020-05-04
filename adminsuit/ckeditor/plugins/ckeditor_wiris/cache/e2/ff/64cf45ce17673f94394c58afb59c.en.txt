@@ -1,0 +1,1 @@
+{"result":{"text":"increment straight G subscript 0"},"status":"ok"}

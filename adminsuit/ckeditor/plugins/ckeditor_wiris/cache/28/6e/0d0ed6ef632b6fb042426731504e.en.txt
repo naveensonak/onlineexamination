@@ -1,0 +1,1 @@
+{"result":{"text":"400 minus 300 e to the power of t divided by 2 end exponent"},"status":"ok"}

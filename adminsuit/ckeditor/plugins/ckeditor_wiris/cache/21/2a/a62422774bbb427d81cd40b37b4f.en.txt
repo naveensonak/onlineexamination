@@ -1,0 +1,1 @@
+{"result":{"text":"f left parenthesis x right parenthesis equals alpha space log space open vertical bar x close vertical bar plus beta x 2 plus x comma"},"status":"ok"}

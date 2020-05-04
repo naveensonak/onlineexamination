@@ -1,0 +1,1 @@
+{"result":{"text":"left parenthesis N a C I right parenthesis equals 52"},"status":"ok"}

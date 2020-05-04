@@ -1,0 +1,1 @@
+{"result":{"text":"C O subscript space 2 end subscript less than S i O subscript 2 less than S n O subscript 2 less than P b space O subscript 2"},"status":"ok"}

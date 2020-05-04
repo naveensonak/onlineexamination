@@ -1,0 +1,1 @@
+{"result":{"text":"straight I. space space left parenthesis NaCl right parenthesis equals 52 comma space space space space space space II. space left parenthesis BaCI subscript 2 right parenthesis equals 0.69 comma space space space space space space space III. space left parenthesis MgSO subscript 4 right parenthesis equals 0.22"},"status":"ok"}

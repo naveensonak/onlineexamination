@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator 2 straight pi over denominator 3 end fraction minus 4 minus 4 square root of 3"},"status":"ok"}

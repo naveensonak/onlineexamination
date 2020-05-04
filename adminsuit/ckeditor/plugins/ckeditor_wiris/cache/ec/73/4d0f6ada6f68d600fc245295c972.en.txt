@@ -1,0 +1,1 @@
+{"result":{"text":"CH subscript 3 COCH subscript 3 plus CH subscript 3 COOH"},"status":"ok"}

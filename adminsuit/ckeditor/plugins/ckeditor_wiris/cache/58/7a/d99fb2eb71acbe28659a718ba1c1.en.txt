@@ -1,0 +1,1 @@
+{"result":{"text":"open parentheses 4 space c m space cross times space 2 space c m close parentheses"},"status":"ok"}

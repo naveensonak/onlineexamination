@@ -1,0 +1,1 @@
+{"result":{"text":"s p squared comma s p cubed space a n d space s p to the power of blank"},"status":"ok"}

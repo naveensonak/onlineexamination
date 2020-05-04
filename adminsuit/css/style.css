@@ -1,0 +1,10 @@
+#country-list{float:left;list-style:none;margin:0;padding:0;width:91%; z-index:999; position:absolute;}
+#country-list li{padding: 10px; background:#3c8dbc;border-bottom:#F0F0F0 1px solid; color:#fff;}
+#country-list li:hover{background:#0080FF;}
+#search-box{padding: 10px;border: #F0F0F0 1px solid;}
+.color{padding: 10px; background:#C00 !important;border-bottom:#F0F0F0 1px solid; color:#fff;}
+.color a{ float:left; margin-top:-9px;color:#fff; width:100%; font-weight:bold;}
+.errmsg{color:#f00;}
+.form-group label span {
+    color: #F00;
+}

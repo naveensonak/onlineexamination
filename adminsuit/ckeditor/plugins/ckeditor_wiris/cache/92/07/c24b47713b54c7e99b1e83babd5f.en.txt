@@ -1,0 +1,1 @@
+{"result":{"text":"S less than S e less than C a less than B a less than A r"},"status":"ok"}

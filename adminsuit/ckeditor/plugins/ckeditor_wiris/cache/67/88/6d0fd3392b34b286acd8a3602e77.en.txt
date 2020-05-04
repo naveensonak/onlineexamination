@@ -1,0 +1,1 @@
+{"result":{"text":"integral open parentheses 1 plus x minus 1 over x close parentheses e to the power of x plus 1 over x end exponent d x"},"status":"ok"}

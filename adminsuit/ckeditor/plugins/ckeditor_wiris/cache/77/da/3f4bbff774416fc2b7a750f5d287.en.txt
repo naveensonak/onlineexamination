@@ -1,0 +1,1 @@
+{"result":{"text":"alpha equals negative 6 comma space beta equals 1 half"},"status":"ok"}

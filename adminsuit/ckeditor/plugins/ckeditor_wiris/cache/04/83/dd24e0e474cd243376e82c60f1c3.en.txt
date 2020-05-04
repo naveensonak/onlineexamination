@@ -1,0 +1,1 @@
+{"result":{"text":"9.92 space X space 10 to the power of 8 P a"},"status":"ok"}

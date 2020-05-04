@@ -1,0 +1,1 @@
+{"result":{"text":"S space m squared space m o l to the power of negative 1 end exponent"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"5.1 space cross times 10 to the power of 5 space M"},"status":"ok"}

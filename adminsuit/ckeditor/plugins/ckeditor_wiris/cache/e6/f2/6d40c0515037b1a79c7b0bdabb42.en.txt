@@ -1,0 +1,1 @@
+{"result":{"text":"1 third fraction numerator l squared w squared over denominator g end fraction"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"increment S space equals space n R space ln open parentheses p subscript i over p subscript f close parentheses"},"status":"ok"}

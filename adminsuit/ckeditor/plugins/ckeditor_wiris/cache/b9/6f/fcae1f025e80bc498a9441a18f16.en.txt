@@ -1,0 +1,1 @@
+{"result":{"text":"r subscript C s end subscript plus r subscript C 1 to the power of minus end subscript equals fraction numerator square root of 3 over denominator 2 end fraction a"},"status":"ok"}

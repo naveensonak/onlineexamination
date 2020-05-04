@@ -1,0 +1,1 @@
+{"result":{"text":"M g to the power of 2 plus end exponent greater than B e to the power of 2 plus end exponent greater than L i to the power of plus greater than N a to the power of plus"},"status":"ok"}

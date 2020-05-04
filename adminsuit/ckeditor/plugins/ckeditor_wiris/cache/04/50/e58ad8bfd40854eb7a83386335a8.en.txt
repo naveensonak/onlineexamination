@@ -1,0 +1,1 @@
+{"result":{"text":"Ca to the power of plus plus end exponent"},"status":"ok"}

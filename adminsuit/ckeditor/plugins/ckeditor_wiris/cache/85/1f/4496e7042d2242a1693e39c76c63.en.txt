@@ -1,0 +1,1 @@
+{"result":{"text":"left parenthesis straight V subscript straight A minus straight V subscript straight B right parenthesis"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"contains space replaceable space straight H to the power of plus space ion"},"status":"ok"}

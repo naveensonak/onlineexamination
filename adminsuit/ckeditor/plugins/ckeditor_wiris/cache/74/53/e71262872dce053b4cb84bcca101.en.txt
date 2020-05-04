@@ -1,0 +1,1 @@
+{"result":{"text":"increment straight G to the power of 0 greater than 0 semicolon space straight K subscript eq less than 1"},"status":"ok"}

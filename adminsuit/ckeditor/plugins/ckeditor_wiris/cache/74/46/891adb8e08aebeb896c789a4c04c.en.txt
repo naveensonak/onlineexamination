@@ -1,0 +1,1 @@
+{"result":{"text":"stack space E space with rightwards arrow on top equals 30 space x squared i with hat on top"},"status":"ok"}

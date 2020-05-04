@@ -1,0 +1,1 @@
+{"result":{"text":"46 capital omega"},"status":"ok"}

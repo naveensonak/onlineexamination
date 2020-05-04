@@ -1,0 +1,1 @@
+{"result":{"text":"N a to the power of plus comma space A l to the power of 3 plus end exponent"},"status":"ok"}

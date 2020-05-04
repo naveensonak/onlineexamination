@@ -1,0 +1,1 @@
+{"result":{"text":"open parentheses x squared plus y squared close parentheses squared equals 6 x squared plus 2 y squared"},"status":"ok"}

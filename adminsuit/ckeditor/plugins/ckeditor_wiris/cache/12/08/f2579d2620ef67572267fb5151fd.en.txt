@@ -1,0 +1,1 @@
+{"result":{"text":"theta subscript 3"},"status":"ok"}

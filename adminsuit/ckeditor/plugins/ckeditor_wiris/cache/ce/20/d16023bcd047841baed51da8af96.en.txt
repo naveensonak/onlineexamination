@@ -1,0 +1,1 @@
+{"result":{"text":"increment straight G to the power of 0"},"status":"ok"}

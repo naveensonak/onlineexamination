@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator tan space A over denominator 1 minus c o t space A end fraction plus fraction numerator c o t space A over denominator 1 minus tan space A end fraction"},"status":"ok"}

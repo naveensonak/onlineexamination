@@ -1,0 +1,1 @@
+{"result":{"text":"V to the power of 2 plus end exponent less than C r to the power of 2 plus end exponent less than M n to the power of 2 plus end exponent less than F e to the power of 2 plus end exponent space colon"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"straight Y to the power of 3 plus end exponent comma La to the power of 3 plus end exponent comma Eu to the power of 3 plus end exponent"},"status":"ok"}

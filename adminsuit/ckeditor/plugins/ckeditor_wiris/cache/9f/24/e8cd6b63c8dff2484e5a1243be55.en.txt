@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator 1 plus tan space alpha over denominator 1 minus tan space alpha end fraction"},"status":"ok"}

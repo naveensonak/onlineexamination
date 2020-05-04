@@ -1,0 +1,1 @@
+{"result":{"text":"p rightwards arrow q left right arrow tilde space q rightwards arrow space tilde space p"},"status":"ok"}

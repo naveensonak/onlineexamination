@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator stack d B with rightwards harpoon with barb upwards on top over denominator d t end fraction"},"status":"ok"}

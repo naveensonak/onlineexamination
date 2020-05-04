@@ -1,0 +1,1 @@
+{"result":{"text":"accepts space OH to the power of minus space from space water space releasing space proton"},"status":"ok"}

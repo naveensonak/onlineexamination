@@ -1,0 +1,1 @@
+{"result":{"text":"0.500 space M space C subscript 2 H subscript 5 O H left parenthesis a q right parenthesis comma space 0.100 space M space M g subscript 3 left parenthesis P O subscript 4 right parenthesis subscript 2 left parenthesis a q right parenthesis comma space 0.250 space M space K B r left parenthesis a q right parenthesis"},"status":"ok"}

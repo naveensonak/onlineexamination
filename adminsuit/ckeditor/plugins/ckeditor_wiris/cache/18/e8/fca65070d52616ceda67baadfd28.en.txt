@@ -1,0 +1,1 @@
+{"result":{"text":"k plus 1 x plus 8 y equals 4 k\nk x plus k plus 3 y equals 3 k minus 1"},"status":"ok"}

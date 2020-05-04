@@ -1,0 +1,1 @@
+{"result":{"text":"1 third x cubed psi left parenthesis x cubed right parenthesis minus integral x squared psi left parenthesis x cubed right parenthesis d x plus C"},"status":"ok"}

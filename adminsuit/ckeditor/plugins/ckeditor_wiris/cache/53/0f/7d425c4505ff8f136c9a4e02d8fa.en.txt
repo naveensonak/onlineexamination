@@ -1,0 +1,1 @@
+{"result":{"text":"x plus square root of 3 y equals square root of 3"},"status":"ok"}

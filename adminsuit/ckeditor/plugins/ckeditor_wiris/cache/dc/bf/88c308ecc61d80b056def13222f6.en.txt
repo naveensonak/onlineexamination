@@ -1,0 +1,1 @@
+{"result":{"text":"T subscript n plus factorial end subscript space minus T subscript n equals 10 comma"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator pi q over denominator 6 left parenthesis 4 pi epsilon subscript 0 right parenthesis end fraction"},"status":"ok"}

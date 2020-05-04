@@ -1,0 +1,1 @@
+{"result":{"text":"p x squared plus q x plus r equals 0."},"status":"ok"}

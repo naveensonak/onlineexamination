@@ -1,0 +1,1 @@
+{"result":{"text":"d subscript x y space comma space end subscript d subscript x squared minus y squared subscript blank end subscript"},"status":"ok"}

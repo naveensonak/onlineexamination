@@ -1,0 +1,1 @@
+{"result":{"text":"negative a with hat on top subscript z"},"status":"ok"}

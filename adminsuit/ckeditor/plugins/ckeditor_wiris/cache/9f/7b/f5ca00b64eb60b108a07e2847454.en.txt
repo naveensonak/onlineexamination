@@ -1,0 +1,1 @@
+{"result":{"text":"left parenthesis R space equals space 8.314 space J K to the power of negative 1 end exponent m o l to the power of negative 1 end exponent space a n d space log space 2 equals 0.301 right parenthesis"},"status":"ok"}

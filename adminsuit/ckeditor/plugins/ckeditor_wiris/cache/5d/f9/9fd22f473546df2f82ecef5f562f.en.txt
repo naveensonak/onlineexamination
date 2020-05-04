@@ -1,0 +1,1 @@
+{"result":{"text":"lambda subscript 1 equals lambda subscript 2 equals 4 lambda subscript 3 equals lambda subscript 4"},"status":"ok"}

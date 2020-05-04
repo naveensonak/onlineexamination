@@ -1,0 +1,1 @@
+{"result":{"text":"log space k space v s fraction numerator 1 over denominator log space T end fraction"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"A rightwards arrow B"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"E to the power of O subscript C r subscript 2 O subscript 7 superscript 2 minus end superscript divided by C r to the power of 3 plus end exponent end subscript equals 1.33 space V space semicolon space E to the power of O subscript C I divided by C I to the power of minus end subscript equals 1.36 space V"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"F e space rightwards arrow with O subscript 2 comma space h e a t on top space F e C l subscript 3 space rightwards arrow with d i l space H subscript 2 S O subscript 4 space end subscript on top space F e S O subscript 4 space rightwards arrow with space space space h e a t space space space on top space F e"},"status":"ok"}

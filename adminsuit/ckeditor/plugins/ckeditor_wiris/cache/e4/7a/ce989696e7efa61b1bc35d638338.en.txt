@@ -1,0 +1,1 @@
+{"result":{"text":"r subscript C s to the power of plus end subscript plus r subscript C 1 to the power of minus end subscript equals fraction numerator 3 a over denominator 2 end fraction"},"status":"ok"}

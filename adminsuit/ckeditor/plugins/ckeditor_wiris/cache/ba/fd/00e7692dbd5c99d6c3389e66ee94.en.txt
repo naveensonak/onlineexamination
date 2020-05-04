@@ -1,0 +1,1 @@
+{"result":{"text":"1.76 X 11 to the power of 11 space bevelled fraction numerator C over denominator k g end fraction"},"status":"ok"}

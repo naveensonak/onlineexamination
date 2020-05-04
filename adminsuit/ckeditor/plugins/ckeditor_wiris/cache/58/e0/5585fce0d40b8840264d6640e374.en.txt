@@ -1,0 +1,1 @@
+{"result":{"text":"limit as x rightwards arrow 0 of fraction numerator 1 minus cos space 2 space x space space space 3 plus cos space x over denominator x space tan space 4 x end fraction"},"status":"ok"}

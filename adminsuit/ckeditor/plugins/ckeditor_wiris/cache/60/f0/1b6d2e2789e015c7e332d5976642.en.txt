@@ -1,0 +1,1 @@
+{"result":{"text":"2 n squared B"},"status":"ok"}

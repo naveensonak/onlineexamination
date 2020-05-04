@@ -1,0 +1,1 @@
+{"result":{"text":"open parentheses B to the power of negative 1 end exponent close parentheses to the power of apostrophe"},"status":"ok"}

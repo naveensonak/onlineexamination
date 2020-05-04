@@ -1,0 +1,1 @@
+{"result":{"text":"left parenthesis L presubscript 3 i to the power of 6 right parenthesis to the power of plus plus end exponent"},"status":"ok"}

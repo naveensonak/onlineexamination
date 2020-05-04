@@ -1,0 +1,1 @@
+{"result":{"text":"12 e to the power of negative 5 t space end exponent V"},"status":"ok"}

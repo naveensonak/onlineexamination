@@ -1,0 +1,1 @@
+{"result":{"text":"K subscript 2 C r subscript 2 O subscript 7"},"status":"ok"}

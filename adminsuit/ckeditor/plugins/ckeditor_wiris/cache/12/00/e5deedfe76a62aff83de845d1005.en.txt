@@ -1,0 +1,1 @@
+{"result":{"text":"greater than C with bar on top space C l subscript 3 greater than greater than C subscript 6 H subscript 5 space C with bar on top space H subscript 2 greater than left parenthesis C H subscript 3 right parenthesis subscript 2 C with bar on top H greater than left parenthesis C H subscript 3 right parenthesis subscript 3 C with bar on top"},"status":"ok"}

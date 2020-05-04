@@ -1,0 +1,1 @@
+{"result":{"text":"left parenthesis x plus 1 right parenthesis e to the power of x plus 1 over x end exponent plus c"},"status":"ok"}

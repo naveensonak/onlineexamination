@@ -1,0 +1,1 @@
+{"result":{"text":"gamma minus r a y s"},"status":"ok"}

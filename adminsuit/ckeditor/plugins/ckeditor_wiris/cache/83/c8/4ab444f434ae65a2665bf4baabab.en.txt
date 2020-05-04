@@ -1,0 +1,1 @@
+{"result":{"text":"C H subscript 3 minus C H equals C H minus C H left parenthesis O H right parenthesis minus M e"},"status":"ok"}

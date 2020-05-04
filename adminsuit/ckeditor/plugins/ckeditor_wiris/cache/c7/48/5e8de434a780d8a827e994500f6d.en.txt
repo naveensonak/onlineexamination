@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator d c over denominator d t end fraction equals k left square bracket A right square bracket squared left square bracket B right square bracket"},"status":"ok"}

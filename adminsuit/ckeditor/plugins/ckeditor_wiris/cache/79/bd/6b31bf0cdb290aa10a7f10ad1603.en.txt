@@ -1,0 +1,1 @@
+{"result":{"text":"4 over 3 A I plus o subscript 2 rightwards arrow 2 over 3 A I subscript 2 o subscript 3 comma increment G equals negative 827 space k J space m o l to the power of negative 1 space end exponent o f space o subscript 2"},"status":"ok"}

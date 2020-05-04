@@ -1,0 +1,1 @@
+{"result":{"text":"X e F subscript 6 plus R b F rightwards arrow R b open square brackets X e F subscript 7 close square brackets"},"status":"ok"}

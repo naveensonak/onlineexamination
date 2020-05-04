@@ -1,0 +1,1 @@
+{"result":{"text":"S c less than T i less than C r less than M n space colon"},"status":"ok"}

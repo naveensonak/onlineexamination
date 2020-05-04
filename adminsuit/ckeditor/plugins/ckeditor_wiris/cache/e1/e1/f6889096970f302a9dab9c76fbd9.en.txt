@@ -1,0 +1,1 @@
+{"result":{"text":"2 A plus B space rightwards arrow with space space space space space space space space on top space C plus D"},"status":"ok"}

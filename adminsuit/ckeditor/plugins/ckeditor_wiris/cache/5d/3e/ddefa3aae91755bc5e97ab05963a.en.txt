@@ -1,0 +1,1 @@
+{"result":{"text":"lambda subscript C equals lambda subscript infinity plus left parenthesis B right parenthesis C"},"status":"ok"}

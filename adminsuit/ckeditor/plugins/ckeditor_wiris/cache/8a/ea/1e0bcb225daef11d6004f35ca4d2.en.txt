@@ -1,0 +1,1 @@
+{"result":{"text":"Xe left parenthesis straight g right parenthesis plus 2 straight F subscript 2 left parenthesis straight g right parenthesis rightwards arrow XeF subscript 4 left parenthesis straight g right parenthesis"},"status":"ok"}

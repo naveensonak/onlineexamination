@@ -1,0 +1,1 @@
+{"result":{"text":"t equals tau over 2 comma space q equals space C V space 1 minus e to the power of negative 1 end exponent"},"status":"ok"}

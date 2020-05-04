@@ -1,0 +1,1 @@
+{"result":{"text":"C s to the power of plus comma space I to the power of minus"},"status":"ok"}

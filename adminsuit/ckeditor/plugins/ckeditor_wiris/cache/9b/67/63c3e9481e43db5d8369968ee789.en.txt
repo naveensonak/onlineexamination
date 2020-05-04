@@ -1,0 +1,1 @@
+{"result":{"text":"B r to the power of minus greater than C N to the power of minus greater than N H subscript 3 greater than C subscript 6 H subscript 5 to the power of minus"},"status":"ok"}

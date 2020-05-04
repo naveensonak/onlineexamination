@@ -1,0 +1,1 @@
+{"result":{"text":"k equals 2 over 3 left parenthesis k subscript 1 plus k subscript 2 plus k subscript 3 right parenthesis plus 2 k subscript 4"},"status":"ok"}

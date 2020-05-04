@@ -1,0 +1,1 @@
+{"result":{"text":"t equals tau comma space q equals space C V divided by 2"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"beta minus r a y s"},"status":"ok"}

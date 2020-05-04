@@ -1,0 +1,1 @@
+{"result":{"text":"A equals left curly bracket left parenthesis x comma space y right parenthesis colon x squared plus y squared less or equal than 1"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"open square brackets C o space N H subscript 3 space C presubscript space 3 end presubscript I close square brackets"},"status":"ok"}

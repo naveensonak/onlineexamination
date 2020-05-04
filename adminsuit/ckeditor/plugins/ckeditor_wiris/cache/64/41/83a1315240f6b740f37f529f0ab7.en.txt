@@ -1,0 +1,1 @@
+{"result":{"text":"p l a n a r space t r i a n g l e space s p cubed d cubed"},"status":"ok"}

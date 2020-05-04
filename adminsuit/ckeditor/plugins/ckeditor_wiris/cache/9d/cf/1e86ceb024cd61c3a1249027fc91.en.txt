@@ -1,0 +1,1 @@
+{"result":{"text":"RCOOH greater than ROH greater than HOH greater than HC identical to CH"},"status":"ok"}

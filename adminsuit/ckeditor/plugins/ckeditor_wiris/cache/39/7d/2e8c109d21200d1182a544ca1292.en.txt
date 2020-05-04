@@ -1,0 +1,1 @@
+{"result":{"text":"B equals A to the power of negative 1 end exponent A apostrophe"},"status":"ok"}

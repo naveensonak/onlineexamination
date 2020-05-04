@@ -1,0 +1,1 @@
+{"result":{"text":"N comma N apostrophe minus d i m e t h y l f o r m a m i d e left parenthesis D M F right parenthesis"},"status":"ok"}

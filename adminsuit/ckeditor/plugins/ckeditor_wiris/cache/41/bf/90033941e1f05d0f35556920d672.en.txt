@@ -1,0 +1,1 @@
+{"result":{"text":"y equals x plus square root of 5"},"status":"ok"}

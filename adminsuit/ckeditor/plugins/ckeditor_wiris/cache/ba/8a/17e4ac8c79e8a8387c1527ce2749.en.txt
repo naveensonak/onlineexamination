@@ -1,0 +1,1 @@
+{"result":{"text":"open parentheses bevelled E subscript s p h e r e end subscript over E subscript c y l i n d e r space end subscript close parentheses"},"status":"ok"}

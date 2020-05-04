@@ -1,0 +1,1 @@
+{"result":{"text":"C H subscript 3 long dash C H long dash C O O H"},"status":"ok"}

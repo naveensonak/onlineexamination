@@ -1,0 +1,1 @@
+{"result":{"text":"f to the power of n equals alpha to the power of n plus beta to the power of n"},"status":"ok"}

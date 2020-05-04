@@ -1,0 +1,1 @@
+{"result":{"text":"R squared square root of fraction numerator rho subscript w g over denominator 3 T end fraction end root"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"left parenthesis K subscript b space end subscript f o r space C subscript 5 H subscript 5 N equals 1.7 cross times 10 to the power of negative 9 end exponent right parenthesis"},"status":"ok"}

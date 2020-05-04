@@ -1,0 +1,1 @@
+{"result":{"text":"z e r o space i n space l o o p space 1 space a n d space z e r o space i n space l o o p space 2"},"status":"ok"}

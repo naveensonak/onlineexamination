@@ -1,0 +1,1 @@
+{"result":{"text":"x subscript p left parenthesis t right parenthesis space equals space a t space plus b t squared"},"status":"ok"}

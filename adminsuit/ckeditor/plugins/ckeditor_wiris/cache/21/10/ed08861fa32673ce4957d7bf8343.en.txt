@@ -1,0 +1,1 @@
+{"result":{"text":"C H subscript 3 long dash C H long dash C O O H\nspace space space space space space space space space space space space space space space space left enclose space\nspace space space space space space space space space space space space space space C H subscript 3"},"status":"ok"}

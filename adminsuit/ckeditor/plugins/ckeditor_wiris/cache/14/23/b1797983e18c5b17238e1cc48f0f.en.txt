@@ -1,0 +1,1 @@
+{"result":{"text":"left parenthesis c h a n g e space o n space e l e c t r o n equals 1.6 X 10 to the power of negative 19 end exponent C right parenthesis"},"status":"ok"}

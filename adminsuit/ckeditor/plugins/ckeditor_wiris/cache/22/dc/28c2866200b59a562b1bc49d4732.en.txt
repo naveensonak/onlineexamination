@@ -1,0 +1,1 @@
+{"result":{"text":"p left parenthesis r right parenthesis equals Q over πR to the power of 4 r"},"status":"ok"}

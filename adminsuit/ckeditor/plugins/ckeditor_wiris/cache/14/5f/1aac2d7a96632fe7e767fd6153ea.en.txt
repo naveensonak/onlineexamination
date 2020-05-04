@@ -1,0 +1,1 @@
+{"result":{"text":"capital delta G to the power of 0"},"status":"ok"}

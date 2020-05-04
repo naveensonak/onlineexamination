@@ -1,0 +1,1 @@
+{"result":{"text":"straight x squared minus 2 straight x\n"},"status":"ok"}

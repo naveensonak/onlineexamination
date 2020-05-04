@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator d p left parenthesis t right parenthesis over denominator d t end fraction equals 1 half p left parenthesis t right parenthesis minus 200."},"status":"ok"}

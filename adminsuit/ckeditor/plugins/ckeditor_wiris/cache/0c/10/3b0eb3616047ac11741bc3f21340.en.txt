@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator mu subscript 0 l over denominator 4 straight pi end fraction open square brackets 2 left parenthesis b minus a right parenthesis plus straight pi over 3 left parenthesis a plus b right parenthesis close square brackets"},"status":"ok"}

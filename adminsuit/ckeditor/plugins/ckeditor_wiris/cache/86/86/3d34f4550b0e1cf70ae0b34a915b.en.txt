@@ -1,0 +1,1 @@
+{"result":{"text":"begin inline style fraction numerator 10 x over denominator 100 left parenthesis y z right parenthesis end fraction d a y s end style"},"status":"ok"}

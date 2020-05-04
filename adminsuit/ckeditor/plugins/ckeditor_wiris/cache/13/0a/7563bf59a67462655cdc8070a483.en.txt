@@ -1,0 +1,1 @@
+{"result":{"text":"left parenthesis 1 plus a x plus b x squared right parenthesis left parenthesis 1 minus 2 x right parenthesis to the power of 18"},"status":"ok"}

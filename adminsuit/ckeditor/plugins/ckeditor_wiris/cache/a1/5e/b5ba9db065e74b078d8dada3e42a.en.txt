@@ -1,0 +1,1 @@
+{"result":{"text":"m to the power of 4 minus 3 m squared plus 2 equals 0"},"status":"ok"}

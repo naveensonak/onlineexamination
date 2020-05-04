@@ -1,0 +1,1 @@
+{"result":{"text":"0 less or equal than theta subscript 1 space less than theta subscript 2 space less than theta subscript 3 space less than pi over 2"},"status":"ok"}

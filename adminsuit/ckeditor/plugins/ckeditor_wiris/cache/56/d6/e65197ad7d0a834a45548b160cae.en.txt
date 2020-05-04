@@ -1,0 +1,1 @@
+{"result":{"text":"tau equals R C"},"status":"ok"}

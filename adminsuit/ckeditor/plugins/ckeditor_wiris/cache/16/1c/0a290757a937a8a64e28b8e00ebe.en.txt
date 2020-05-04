@@ -1,0 +1,1 @@
+{"result":{"text":"trigonal space bipyramidal comma space sp cubed straight d"},"status":"ok"}

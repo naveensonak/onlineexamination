@@ -1,0 +1,1 @@
+{"result":{"text":"O to the power of 2 minus end exponent comma F to the power of minus comma N a to the power of plus comma M g to the power of 2 plus end exponent"},"status":"ok"}

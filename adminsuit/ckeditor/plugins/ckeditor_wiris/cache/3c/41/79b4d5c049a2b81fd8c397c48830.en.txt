@@ -1,0 +1,1 @@
+{"result":{"text":"J space K to the power of negative 1 end exponent space m o l to the power of negative 1 end exponent"},"status":"ok"}

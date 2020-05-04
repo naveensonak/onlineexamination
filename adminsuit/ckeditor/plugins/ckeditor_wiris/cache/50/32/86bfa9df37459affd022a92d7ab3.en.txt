@@ -1,0 +1,1 @@
+{"result":{"text":"1.76 space X space 11 to the power of 11 space end exponent C divided by k g"},"status":"ok"}

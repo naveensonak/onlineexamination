@@ -1,0 +1,1 @@
+{"result":{"text":"A A apostrophe equals A apostrophe A"},"status":"ok"}

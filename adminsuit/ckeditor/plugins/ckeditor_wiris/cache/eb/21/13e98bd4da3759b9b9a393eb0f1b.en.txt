@@ -1,0 +1,1 @@
+{"result":{"text":"L i subscript 2 O plus 2 K C l space rightwards arrow with space space space space space space space space space space space on top space 2 L i C l plus K subscript 2 O"},"status":"ok"}

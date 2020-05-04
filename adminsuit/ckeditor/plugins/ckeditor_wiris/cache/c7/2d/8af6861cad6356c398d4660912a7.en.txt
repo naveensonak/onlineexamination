@@ -1,0 +1,1 @@
+{"result":{"text":"y equals m x plus fraction numerator square root of 5 over denominator m end fraction m not identical to 0"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"angle A D B equals theta comma space B C equals p space a n d space C D equals q comma"},"status":"ok"}

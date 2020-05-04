@@ -1,0 +1,1 @@
+{"result":{"text":"square root of 2 square root of 2 fraction numerator G M over denominator R end fraction end root"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator 2 square root of 17 over denominator 9 end fraction"},"status":"ok"}

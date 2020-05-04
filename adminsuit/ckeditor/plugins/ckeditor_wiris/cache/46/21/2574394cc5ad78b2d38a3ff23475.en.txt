@@ -1,0 +1,1 @@
+{"result":{"text":"3 X e F subscript 6 plus 6 H subscript 2 O rightwards arrow 2 X e plus X e O subscript 3 plus 12 space H F space plus 1.5 space O subscript 2"},"status":"ok"}

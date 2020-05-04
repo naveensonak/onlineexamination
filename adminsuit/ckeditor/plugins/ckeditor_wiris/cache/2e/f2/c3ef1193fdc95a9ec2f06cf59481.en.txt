@@ -1,0 +1,1 @@
+{"result":{"text":"blank subscript space L subscript A equals L subscript B over 2 end subscript"},"status":"ok"}

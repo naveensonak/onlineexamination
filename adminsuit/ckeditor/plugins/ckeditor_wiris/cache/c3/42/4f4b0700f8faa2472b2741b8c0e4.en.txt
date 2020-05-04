@@ -1,0 +1,1 @@
+{"result":{"text":"square root of 3 over 4 g h end root"},"status":"ok"}

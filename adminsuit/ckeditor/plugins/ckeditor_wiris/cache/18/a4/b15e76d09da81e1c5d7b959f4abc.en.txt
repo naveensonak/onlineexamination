@@ -1,0 +1,1 @@
+{"result":{"text":"left parenthesis h equals 6.62 cross times 10 to the power of 3 minus 4 end exponent space J s space a n d space c equals 3.0 cross times 10 to the power of 8 m s to the power of negative 1 end exponent right parenthesis"},"status":"ok"}

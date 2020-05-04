@@ -1,0 +1,1 @@
+{"result":{"text":"p left parenthesis 0 right parenthesis equals 100 comma"},"status":"ok"}

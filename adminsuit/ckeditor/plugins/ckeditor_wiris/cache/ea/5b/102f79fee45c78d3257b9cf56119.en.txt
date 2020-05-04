@@ -1,0 +1,1 @@
+{"result":{"text":"x M n O subscript 4 with bar on top end subscript space plus space y C subscript 2 O subscript 4 superscript 2 minus end superscript space plus space z H to the power of plus rightwards arrow x M n to the power of 2 plus end exponent space plus space 2 y C O subscript 2 space plus space z over 2 H subscript 2 O"},"status":"ok"}

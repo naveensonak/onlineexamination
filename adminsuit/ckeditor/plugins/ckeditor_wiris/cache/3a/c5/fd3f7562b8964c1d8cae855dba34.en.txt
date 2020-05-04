@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator m g subscript 0 R squared over denominator 2 open parentheses R plus space h close parentheses end fraction"},"status":"ok"}

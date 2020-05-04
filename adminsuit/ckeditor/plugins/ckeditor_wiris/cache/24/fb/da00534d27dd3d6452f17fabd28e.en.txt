@@ -1,0 +1,1 @@
+{"result":{"text":"increment s equals n R T 1 n open parentheses p subscript f over p subscript i close parentheses"},"status":"ok"}

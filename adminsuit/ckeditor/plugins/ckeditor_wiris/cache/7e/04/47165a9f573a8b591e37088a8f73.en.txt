@@ -1,0 +1,1 @@
+{"result":{"text":"f apostrophe left parenthesis x right parenthesis equals fraction numerator 1 over denominator 1 plus x to the power of 5 end fraction"},"status":"ok"}

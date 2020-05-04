@@ -1,0 +1,1 @@
+{"result":{"text":"d subscript 1 divided by d subscript 2"},"status":"ok"}

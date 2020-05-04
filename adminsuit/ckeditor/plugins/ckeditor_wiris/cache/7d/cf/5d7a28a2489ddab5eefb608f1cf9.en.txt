@@ -1,0 +1,1 @@
+{"result":{"text":"3.75 space X space 10 to the power of 20"},"status":"ok"}

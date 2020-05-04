@@ -1,0 +1,1 @@
+{"result":{"text":"I to the power of plus subscript 3 space end subscript space h a s space b e n t space g e o m e t r y."},"status":"ok"}

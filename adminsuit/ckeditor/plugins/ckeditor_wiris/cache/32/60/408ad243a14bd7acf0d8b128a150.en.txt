@@ -1,0 +1,1 @@
+{"result":{"text":"f subscript 4 left parenthesis x right parenthesis minus f subscript 6 left parenthesis x right parenthesis"},"status":"ok"}

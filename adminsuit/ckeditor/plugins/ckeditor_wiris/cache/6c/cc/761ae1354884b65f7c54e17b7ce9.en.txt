@@ -1,0 +1,1 @@
+{"result":{"text":"2 over k equals fraction numerator 3 over denominator left parenthesis k subscript 1 plus k subscript 2 plus k subscript 3 right parenthesis end fraction plus 1 over k subscript 4"},"status":"ok"}

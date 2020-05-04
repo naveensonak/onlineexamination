@@ -1,0 +1,1 @@
+{"result":{"text":"0.125 space N m to the power of negative 1 end exponent"},"status":"ok"}

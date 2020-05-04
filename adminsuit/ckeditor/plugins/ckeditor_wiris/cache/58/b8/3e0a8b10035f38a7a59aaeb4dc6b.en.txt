@@ -1,0 +1,1 @@
+{"result":{"text":"u squared over g"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"0.5 space m divided by s space a n d space minus 0.3 space m divided by s"},"status":"ok"}

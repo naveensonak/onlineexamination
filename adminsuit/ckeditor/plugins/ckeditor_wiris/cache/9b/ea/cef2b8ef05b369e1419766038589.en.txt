@@ -1,0 +1,1 @@
+{"result":{"text":"increment R equals open parentheses R minus R subscript 0 close parentheses less than less than R subscript 0"},"status":"ok"}

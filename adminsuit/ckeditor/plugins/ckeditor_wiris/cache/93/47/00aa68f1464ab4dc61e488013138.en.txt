@@ -1,0 +1,1 @@
+{"result":{"text":"open square brackets P t C I subscript 2 left parenthesis N H subscript 3 right parenthesis subscript 4 close square brackets B r subscript 2 space a n d space open square brackets P t B r subscript 2 left parenthesis N H subscript 3 right parenthesis subscript 4 close square brackets C l subscript 2"},"status":"ok"}

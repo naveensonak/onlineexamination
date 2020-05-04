@@ -1,0 +1,1 @@
+{"result":{"text":"open square brackets C o space e n space N H subscript 3 space C presubscript space 2 end presubscript I subscript 2 close square brackets to the power of plus"},"status":"ok"}

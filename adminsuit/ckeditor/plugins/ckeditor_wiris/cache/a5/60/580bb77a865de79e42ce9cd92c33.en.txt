@@ -1,0 +1,1 @@
+{"result":{"text":"C asterisk times space colon space C with bar on top space colon space C space equals 1 space colon space 1.128 space colon space 1.225 space"},"status":"ok"}

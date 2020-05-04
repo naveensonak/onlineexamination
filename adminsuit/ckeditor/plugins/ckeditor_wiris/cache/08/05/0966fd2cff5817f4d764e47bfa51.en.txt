@@ -1,0 +1,1 @@
+{"result":{"text":"Y equals integral subscript 0 superscript x open vertical bar t close vertical bar d t comma space x element of R comma"},"status":"ok"}

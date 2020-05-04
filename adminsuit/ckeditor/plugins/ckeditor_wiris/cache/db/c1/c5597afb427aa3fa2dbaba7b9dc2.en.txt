@@ -1,0 +1,1 @@
+{"result":{"text":"straight K left square bracket PtCI subscript 3 left parenthesis straight eta squared minus straight C subscript 2 straight H subscript 4 right parenthesis right square bracket"},"status":"ok"}

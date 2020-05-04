@@ -1,0 +1,1 @@
+{"result":{"text":"open parentheses 13 over 2 close parentheses p subscript 0 V subscript 0"},"status":"ok"}

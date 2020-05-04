@@ -1,0 +1,1 @@
+{"result":{"text":"10 over 3 to the power of 5"},"status":"ok"}

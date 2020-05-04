@@ -1,0 +1,1 @@
+{"result":{"text":"y squared equals 4 square root of 5 x"},"status":"ok"}

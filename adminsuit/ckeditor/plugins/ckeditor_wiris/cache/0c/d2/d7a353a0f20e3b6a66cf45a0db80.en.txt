@@ -1,0 +1,1 @@
+{"result":{"text":"s q u a r e space p l a n a r comma space s p cubed d cubed"},"status":"ok"}

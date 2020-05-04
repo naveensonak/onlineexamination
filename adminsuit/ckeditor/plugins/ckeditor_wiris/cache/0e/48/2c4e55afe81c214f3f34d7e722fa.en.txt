@@ -1,0 +1,1 @@
+{"result":{"text":"s e c space A plus cos e c space A"},"status":"ok"}

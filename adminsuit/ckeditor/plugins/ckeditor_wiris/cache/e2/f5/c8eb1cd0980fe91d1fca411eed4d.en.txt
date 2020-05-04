@@ -1,0 +1,1 @@
+{"result":{"text":"1 over 6 fraction numerator l squared omega squared over denominator g end fraction"},"status":"ok"}

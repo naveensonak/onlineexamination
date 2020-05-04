@@ -1,0 +1,1 @@
+{"result":{"text":"ADP plus AMP rightwards arrow with Light space energy on top ATP"},"status":"ok"}

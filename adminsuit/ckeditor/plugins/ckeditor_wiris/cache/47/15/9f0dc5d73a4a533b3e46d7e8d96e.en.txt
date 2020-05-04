@@ -1,0 +1,1 @@
+{"result":{"text":"capital delta H subscript m i x end subscript equals 0"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator Q over denominator 4 πε subscript 0 straight L space In space 2 end fraction"},"status":"ok"}

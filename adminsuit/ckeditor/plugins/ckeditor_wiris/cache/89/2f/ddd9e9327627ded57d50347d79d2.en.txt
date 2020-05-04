@@ -1,0 +1,1 @@
+{"result":{"text":"CH subscript 3 CH subscript 2 CH subscript 2 Br plus NaCN space rightwards arrow CH subscript 3 CH subscript 2 CH subscript 2 CN space plus space NaBr"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"straight K subscript eq"},"status":"ok"}

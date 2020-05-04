@@ -1,0 +1,1 @@
+{"result":{"text":"lambda subscript 0 equals fraction numerator 2 m squared c squared lambda cubed over denominator h squared end fraction"},"status":"ok"}

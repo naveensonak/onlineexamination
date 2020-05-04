@@ -1,0 +1,1 @@
+{"result":{"text":"k equals A e to the power of negative E asterisk times divided by R T end exponent"},"status":"ok"}

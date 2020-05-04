@@ -1,0 +1,1 @@
+{"result":{"text":"straight K subscript 3 open square brackets table row cell AIF subscript 3 straight H subscript 3 end cell end table close square brackets"},"status":"ok"}

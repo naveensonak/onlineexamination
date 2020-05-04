@@ -1,0 +1,1 @@
+{"result":{"text":"open parentheses V subscript A minus V subscript B close parentheses"},"status":"ok"}

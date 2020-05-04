@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator Q straight r subscript 1 superscript 2 over denominator 3 πε subscript 0 R to the power of 4 end fraction"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator M omega over denominator M plus 4 m end fraction"},"status":"ok"}

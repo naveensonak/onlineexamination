@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator 2 G space m space M over denominator 3 space R end fraction"},"status":"ok"}

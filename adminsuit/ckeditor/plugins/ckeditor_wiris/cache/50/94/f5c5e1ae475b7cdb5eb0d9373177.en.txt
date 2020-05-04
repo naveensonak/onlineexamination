@@ -1,0 +1,1 @@
+{"result":{"text":"2 space straight X space 10 to the power of 5 space end exponent straight N divided by straight C"},"status":"ok"}

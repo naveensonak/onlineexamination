@@ -1,0 +1,1 @@
+{"result":{"text":"z to the power of x to the power of A subscript rightwards arrow end exponent end exponent Z plus 1 to the power of y to the power of A plus end exponent minus 1 e to the power of 0 plus v"},"status":"ok"}

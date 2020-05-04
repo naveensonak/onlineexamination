@@ -1,0 +1,1 @@
+{"result":{"text":"Fe left parenthesis straight eta to the power of 5 minus straight C subscript 2 straight H subscript 5 right parenthesis subscript 2"},"status":"ok"}

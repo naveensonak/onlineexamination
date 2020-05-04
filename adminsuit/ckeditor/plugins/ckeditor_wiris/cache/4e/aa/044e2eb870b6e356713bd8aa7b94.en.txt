@@ -1,0 +1,1 @@
+{"result":{"text":"straight pi over 2 greater than circled dash subscript 1 greater than circled dash subscript 2 greater than circled dash subscript 3 greater or equal than 0"},"status":"ok"}

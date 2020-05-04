@@ -1,0 +1,1 @@
+{"result":{"text":"E to the power of o subscript F e to the power of 3 plus end exponent divided by F e end subscript equals 0.036 space V comma space E to the power of o subscript F e to the power of 2 plus end exponent divided by F e end subscript equals 0.439 space V"},"status":"ok"}

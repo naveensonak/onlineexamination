@@ -1,0 +1,1 @@
+{"result":{"text":"P m divided by left parenthesis k T right parenthesis"},"status":"ok"}

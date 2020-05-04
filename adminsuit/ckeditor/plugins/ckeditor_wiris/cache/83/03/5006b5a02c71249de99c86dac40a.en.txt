@@ -1,0 +1,1 @@
+{"result":{"text":"53.6 space k J space m o l to the power of negative 1 end exponent"},"status":"ok"}

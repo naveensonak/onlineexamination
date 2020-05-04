@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator left parenthesis m subscript 1 plus m subscript 2 right parenthesis end subscript over denominator blank end fraction l squared"},"status":"ok"}

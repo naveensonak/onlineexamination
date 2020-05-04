@@ -1,0 +1,1 @@
+{"result":{"text":"left square bracket C o C l left parenthesis N H subscript 3 right parenthesis subscript 5 right square bracket to the power of plus plus 5 H to the power of plus plus C o to the power of 2 plus end exponent plus 5 N H subscript 4 superscript plus plus C l to the power of minus"},"status":"ok"}

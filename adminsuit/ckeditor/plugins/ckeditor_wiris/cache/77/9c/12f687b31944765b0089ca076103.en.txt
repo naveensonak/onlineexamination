@@ -1,0 +1,1 @@
+{"result":{"text":"sp cubed straight d cubed"},"status":"ok"}

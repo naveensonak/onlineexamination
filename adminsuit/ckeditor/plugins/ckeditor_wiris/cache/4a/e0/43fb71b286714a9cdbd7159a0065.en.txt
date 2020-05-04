@@ -1,0 +1,1 @@
+{"result":{"text":"open square brackets C o space left parenthesis H subscript 2 O right parenthesis subscript 4 space left parenthesis e n right parenthesis close square brackets to the power of 3 plus end exponent"},"status":"ok"}

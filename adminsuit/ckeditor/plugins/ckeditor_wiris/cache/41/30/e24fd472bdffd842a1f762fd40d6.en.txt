@@ -1,0 +1,1 @@
+{"result":{"text":"left parenthesis H presubscript 1 superscript 2 right parenthesis comma"},"status":"ok"}

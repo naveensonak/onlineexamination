@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator 1 over denominator 1 plus open curly brackets g left parenthesis x right parenthesis close curly brackets to the power of 5 end fraction"},"status":"ok"}

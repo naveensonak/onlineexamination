@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator p squared plus q squared space over denominator p squared space cos space theta plus q squared space sin space theta end fraction"},"status":"ok"}

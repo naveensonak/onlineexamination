@@ -1,0 +1,1 @@
+{"result":{"text":"straight q squared"},"status":"ok"}

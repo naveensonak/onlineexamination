@@ -1,0 +1,1 @@
+{"result":{"text":"CH subscript 3 CH left parenthesis OH right parenthesis straight C subscript 2 straight H subscript 5"},"status":"ok"}

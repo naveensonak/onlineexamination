@@ -1,0 +1,1 @@
+{"result":{"text":"left parenthesis charge space on space electron space equals space 1.60 space straight X space space 10 to the power of negative 19 end exponent straight C right parenthesis"},"status":"ok"}

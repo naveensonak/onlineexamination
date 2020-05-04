@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator square root of n over denominator open parentheses n plus 1 close parentheses squared end fraction"},"status":"ok"}

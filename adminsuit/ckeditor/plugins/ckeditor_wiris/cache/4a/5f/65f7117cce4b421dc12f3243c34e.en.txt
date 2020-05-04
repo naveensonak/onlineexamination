@@ -1,0 +1,1 @@
+{"result":{"text":"2 open parentheses M n to the power of 2 plus end exponent plus 2 e to the power of minus rightwards arrow with space space space space space space space space space space on top space M n to the power of 2 plus end exponent close parentheses semicolon space E to the power of 0 equals negative 1.51 V"},"status":"ok"}

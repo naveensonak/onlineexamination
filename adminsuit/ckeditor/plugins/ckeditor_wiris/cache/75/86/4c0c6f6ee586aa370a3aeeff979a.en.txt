@@ -1,0 +1,1 @@
+{"result":{"text":"C H subscript 3 C l greater than left parenthesis C H subscript 3 right parenthesis subscript 2 C H C l greater than C H subscript 3 C H subscript 2 C l greater than left parenthesis C H subscript 3 right parenthesis subscript 3 C C"},"status":"ok"}

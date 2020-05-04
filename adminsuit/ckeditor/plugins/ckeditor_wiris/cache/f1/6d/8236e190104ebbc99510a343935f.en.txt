@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator K squared plus R 2 over denominator R squared end fraction"},"status":"ok"}

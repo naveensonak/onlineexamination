@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator 2 square root of n over denominator n plus 1 squared end fraction"},"status":"ok"}

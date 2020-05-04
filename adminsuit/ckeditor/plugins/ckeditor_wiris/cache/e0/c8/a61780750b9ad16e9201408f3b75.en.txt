@@ -1,0 +1,1 @@
+{"result":{"text":"F equals a x plus b x squared"},"status":"ok"}

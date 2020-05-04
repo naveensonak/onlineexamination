@@ -1,0 +1,1 @@
+{"result":{"text":"open parentheses fraction numerator 1 plus z over denominator 1 plus z with bar on top end fraction close parentheses"},"status":"ok"}

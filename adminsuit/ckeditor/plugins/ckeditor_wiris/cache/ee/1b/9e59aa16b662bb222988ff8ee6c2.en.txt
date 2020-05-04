@@ -1,0 +1,1 @@
+{"result":{"text":"greater than 50 percent sign"},"status":"ok"}

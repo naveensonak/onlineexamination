@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator open parentheses M minus 4 M close parentheses omega over denominator M plus 4 M end fraction"},"status":"ok"}

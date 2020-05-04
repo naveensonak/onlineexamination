@@ -1,0 +1,1 @@
+{"result":{"text":"increment straight P equals straight P subscript obs minus straight P subscript calculated space by space Raoult apostrophe straight s space law end subscript equals 0"},"status":"ok"}

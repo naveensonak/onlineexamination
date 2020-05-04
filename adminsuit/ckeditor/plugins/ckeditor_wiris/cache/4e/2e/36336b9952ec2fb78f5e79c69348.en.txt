@@ -1,0 +1,1 @@
+{"result":{"text":"i with hat on top plus 2 j with hat on top space m divided by s"},"status":"ok"}

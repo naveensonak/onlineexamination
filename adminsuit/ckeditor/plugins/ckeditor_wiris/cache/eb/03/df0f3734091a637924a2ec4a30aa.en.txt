@@ -1,0 +1,1 @@
+{"result":{"text":"2 cross times 10 to the power of 11 space N space m to the power of negative 2 end exponent"},"status":"ok"}

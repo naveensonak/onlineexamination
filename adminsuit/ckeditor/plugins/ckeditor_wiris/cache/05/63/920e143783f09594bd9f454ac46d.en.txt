@@ -1,0 +1,1 @@
+{"result":{"text":"open parentheses K subscript s p end subscript space f o r space B a C O subscript 3 equals 5.1 cross times 10 to the power of negative 9 end exponent close parentheses"},"status":"ok"}

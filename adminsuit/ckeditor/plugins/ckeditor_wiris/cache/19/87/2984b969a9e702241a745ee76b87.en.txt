@@ -1,0 +1,1 @@
+{"result":{"text":"10.62 space k H z"},"status":"ok"}

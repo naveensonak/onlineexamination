@@ -1,0 +1,1 @@
+{"result":{"text":"k e squared over r cubed r with hat on top"},"status":"ok"}

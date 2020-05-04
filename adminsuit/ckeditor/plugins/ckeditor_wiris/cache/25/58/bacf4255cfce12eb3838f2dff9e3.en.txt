@@ -1,0 +1,1 @@
+{"result":{"text":"straight C subscript 3 straight H subscript 8 left parenthesis straight g right parenthesis plus 5 straight O subscript 2 left parenthesis straight g right parenthesis rightwards arrow 3 CO subscript 2 left parenthesis straight g right parenthesis plus 4 straight H subscript 2 straight O left parenthesis straight I right parenthesis"},"status":"ok"}

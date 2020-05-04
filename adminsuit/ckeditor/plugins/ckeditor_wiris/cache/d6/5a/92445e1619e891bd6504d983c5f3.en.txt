@@ -1,0 +1,1 @@
+{"result":{"text":"left parenthesis R equals 8.314 space k J space m o l to the power of negative 1 end exponent right parenthesis"},"status":"ok"}
